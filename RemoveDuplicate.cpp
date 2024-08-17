@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm>
 using namespace std;
+//New Length Logic 
 int removeduplicate(int array[],int &size){
   int i = 0;
    for(int j = 1;j<size;j++){
